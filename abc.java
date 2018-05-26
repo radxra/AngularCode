@@ -19,6 +19,7 @@ System.out.println("inside m1 void");
 class abc 
 {
 		public static void main(String args[]){
+pk and ak
 	abc2 obj =new abc2();
 	obj.m1();
 }
